@@ -50,7 +50,7 @@ rm -rf %{buildroot}
 %{ruby_gemdir}/gems/%{oname}-%{version}/lib/
 %{ruby_gemdir}/gems/%{oname}-%{version}/spec/
 %doc %{ruby_gemdir}/doc/%{oname}-%{version}
-#%doc %{ruby_gemdir}/gems/%{oname}-%{version}/History.md
+#% doc % {ruby_gemdir}/gems/% {oname}-% {version}/History.md
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/License.txt
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/Rakefile
 %doc %{ruby_gemdir}/gems/%{oname}-%{version}/README.md
