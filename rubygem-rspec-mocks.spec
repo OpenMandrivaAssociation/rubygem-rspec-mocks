@@ -14,6 +14,7 @@ Requires:   rubygems
 Requires:   rubygem(rspec-core)
 Requires:   rubygem(rspec-expectations)
 BuildRequires: rubygems
+BuildRequires: ruby-rdoc
 BuildArch:  noarch
 Provides:   rubygem(%{oname}) = %{version}
 
