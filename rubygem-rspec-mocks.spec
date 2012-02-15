@@ -4,7 +4,7 @@
 Summary:    Behaviour Driven Development for Ruby
 Name:       rubygem-%{oname}
 Version:    2.8.0
-Release:    1
+Release:	2
 Group:      Development/Ruby
 License:    MIT
 URL:        http://github.com/rspec/rspec-mocks
