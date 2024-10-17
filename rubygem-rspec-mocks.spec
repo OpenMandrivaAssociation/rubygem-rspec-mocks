@@ -7,7 +7,7 @@ Version:    2.8.0
 Release:	3
 Group:      Development/Ruby
 License:    MIT
-URL:        http://github.com/rspec/rspec-mocks
+URL:        https://github.com/rspec/rspec-mocks
 Source0:    %{oname}-%{version}.gem
 Requires:   rubygems
 Requires:   rubygem(rspec-core)
